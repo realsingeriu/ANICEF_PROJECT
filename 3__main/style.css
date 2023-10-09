@@ -119,7 +119,7 @@ input {
   transform: translateX(0);
 }
 
-.box h2 {
+.main_content1 h2 {
   text-align: left;
   font-size: 200%;
   margin-left: 10%;
@@ -235,9 +235,12 @@ footer {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 20%;
+  height: 15%;
   color: black;
   background-color: #ffffff;
+}
+footer h2 {
+  margin-left: 10%;
 }
 
 footer p {
